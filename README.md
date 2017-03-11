@@ -1,0 +1,1 @@
+# translator_app_android
